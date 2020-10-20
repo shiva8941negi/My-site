@@ -1,0 +1,16 @@
+body{
+  background-color:powderblue;
+/* ********************************************************other ways we can use*******************
+ margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;*/
+  margin: 0;
+}
+h1{
+  margin: 0;
+}
+div{
+  background-color: #2d6187;
+  margin: 0;
+}
